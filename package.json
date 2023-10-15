@@ -7,9 +7,17 @@
     "start": "web-dev-server --node-resolve --open --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViktorSvertoka/goit-typescript-hw-01.git"
+  },
+  "homepage": "https://github.com/ViktorSvertoka/goit-typescript-hw-01#readme",
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViktorSvertoka/goit-typescript-hw-01/issues"
+  },
   "devDependencies": {
     "@web/dev-server": "^0.3.3"
   }
